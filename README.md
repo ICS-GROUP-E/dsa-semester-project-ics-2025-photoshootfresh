@@ -3,7 +3,8 @@
 # DSA-SEM-PROJECT-
 DATA STRUCTURES AND ALGORITHMS SEMESTER PROJECT
 
-To-Do List Application
+**To-Do List Application
+**
 This is a simple To-Do List application built with Python and Tkinter. It allows users to manage their tasks, set priorities and difficulties, and stores the tasks in a database.
 
 User Guide
